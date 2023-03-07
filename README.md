@@ -27,3 +27,4 @@ Statistics helps decision making
 
 1. What is statistics
  
+2. 
